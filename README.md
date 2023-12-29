@@ -1,1 +1,1 @@
-# VueJS-opdracht
+Het hoofddoel van de opdracht is om een kleine webapp app te maken waarin "free to play" games zichtbaar zijn vanuit een externe api. Op het moment dat je op een game klikt ga je naar een apart scherm waar je iets meer info over de game ziet
